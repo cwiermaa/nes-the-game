@@ -2,6 +2,12 @@
 
 A small, complete NES homebrew game written in 6502 assembly.
 
+<p align="left">
+  <img src="screenshots/title_screen.png" width="30%" />
+  <img src="screenshots/gameplay.png" width="30%" />
+  <img src="screenshots/game_over.png" width="30%" />
+</p>
+
 ## Overview
 
 **The Game** is a simple arcade-style project created as an early exercise in building a complete game from start to finish.
